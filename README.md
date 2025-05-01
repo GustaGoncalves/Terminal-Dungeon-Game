@@ -28,5 +28,5 @@ Each character has their own unique motivation to be in the labyrinth, which are
 
 # Why No OOP?
 It was part of the challange that started this whole thing.
-Make something, with the little knowledge I had for the sake developing a depper understanding of programming and development.
+Make something, with the little knowledge I had for the sake developing a deeper understanding of programming and development.
 Even more since I am hoping to, someday, develop an actual real game as a small complement to my hobbie of playing, collecting and analysing games and their design.
