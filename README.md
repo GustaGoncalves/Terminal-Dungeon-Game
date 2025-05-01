@@ -5,7 +5,7 @@ As such you will quickly realize that this doesn't have any OOP and is has code 
 If you don't understand it, don't worry, you're not meant to.
 
 Unsurprisingly, I got attached to it quite a bit and invested a lot more than I thought, but it was fun nonetheless.
-I made sketches for items, skills, enemies and a whole bunch of other stuff that that would be added to the game
+I made sketches for items, skills, enemies and a whole bunch of other stuff that would be added to the game
 
 Unfortunately, due to the intensity of college work during the 2º Semester, I was not able to finish it.
 This is basically just a test build, but as far as I know, everything in here should work correctly.
